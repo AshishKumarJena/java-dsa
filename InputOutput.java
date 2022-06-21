@@ -15,6 +15,7 @@ public class InputOutput {
 
         // for, while, do-while, break, continue
         // if, else, if-else, switch
+        scn.close();
 
     }
 }
