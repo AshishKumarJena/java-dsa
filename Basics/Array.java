@@ -1,9 +1,9 @@
+package Basics;
 public class Array {
 
     public static void fun(int[] arr) {
         arr[2] = 30;
         arr[3] = 40;
-
         // for (int i = 0; i < arr.length; i++) {
         //     System.out.println(arr[i]);
         // }

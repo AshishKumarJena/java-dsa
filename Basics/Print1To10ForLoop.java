@@ -1,3 +1,4 @@
+package Basics;
 public class Print1To10ForLoop {
 
     public static void main(String[] args) {
